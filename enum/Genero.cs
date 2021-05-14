@@ -10,7 +10,7 @@ namespace DIO.series
         Espionagem = 6,
         Faroeste = 7,
         Fantasia = 8,
-        Ficcao_Ciencia = 9,,
+        Ficcao_Ciencia = 9,
         musical = 10,
         Romance = 11,
         Suspense = 12,
